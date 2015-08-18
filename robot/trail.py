@@ -7,10 +7,4 @@ from tealight.robot import (move,
                             right_side)
 
 while True:
-  for n in range(-1,2,2):
-    print n
-    while touch() == 'fruit' or left_side() == 'fruit' or right_side() == 'fruit':
-      move()
-    turn(n)
-    move()
-    turn(n)
+  
