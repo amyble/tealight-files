@@ -1,1 +1,1 @@
-from tealight.chessboard
+from tealight.logo
