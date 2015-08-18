@@ -6,5 +6,4 @@ def square(side):
     turn(90)
     
 
-turn(-90)
-waterwheel(12,180)
+square
