@@ -11,6 +11,11 @@ while True:
   turn(-1)
   move()
   turn(-1)
+  while touch() == 'fruit' or left_side() == 'fruit' or right_side() == 'fruit':
+    move()
+  turn(1)
+  move()
+  turn(1)
  
   
 
