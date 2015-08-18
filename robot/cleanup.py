@@ -5,9 +5,12 @@ from tealight.robot import (move,
                             smell, 
                             left_side, 
                             right_side)
-
-while touch() == 'fruit' or left_side() == 'fruit' or right_side() == 'fruit':
+while True:
+  while touch() == 'fruit' or left_side() == 'fruit' or right_side() == 'fruit':
     move()
+  turn(-1)
+  move()
+  turn(-1)
  
   
 
