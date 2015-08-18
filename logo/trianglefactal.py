@@ -6,4 +6,4 @@ def triangle(size):
     move(size)
     turn(angle)
     
-triangle(100000)
+triangle(100)
