@@ -7,7 +7,7 @@ from tealight.robot import (move,
                             right_side)
 
  while touch() == 'water':
-    move(1)
+    move()
  
   
 
