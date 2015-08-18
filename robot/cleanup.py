@@ -6,3 +6,8 @@ from tealight.robot import (move,
                             left_side, 
                             right_side)
 
+ while touch() == 'water': 
+  move(1)
+  else move(0)
+  
+
