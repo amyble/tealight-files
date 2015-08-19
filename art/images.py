@@ -6,11 +6,11 @@ y = 150
 width = 20
 height = 10
 
-for i in range(0,width):
-  for j in range(0,height):
+for i in range(0,2,width):
+  for j in range(0,2,height):
     if i % 4 == 0:
       image(x + j * 60, y + i * 60, "misc/YellowFlower.png")
-     
+    
     else:
       image(x + j * 60, y + i * 60, "misc/Clover.png")
      
