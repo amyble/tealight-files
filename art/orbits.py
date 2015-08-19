@@ -6,7 +6,7 @@ x = screen_width / 2
 y = screen_height / 2
 vx = 0
 vy = 0
-ax = -6
+ax = 0
 ay = 0
 
 power = 0.1
@@ -38,8 +38,8 @@ def handle_frame():
   color("white")
   
   spot(x,y,8)
-  vx = vx + ax
-  vy = vy + ay
+  vx = vx + ax + y
+  vy = vy + ay + y
   
   x = x + vx
   y = y + vy
