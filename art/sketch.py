@@ -4,7 +4,6 @@ lastx = 0
 lasty = 0
 
 color("blue")
-color("red")
 
 def handle_mousedown(x,y):
   global lastx, lasty
