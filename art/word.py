@@ -2,6 +2,6 @@ from tealight.art import (color, line, spot, circle, box, rectangle, image, text
 from tealight.art import (screen_width, screen_height)
 import random
 
-rectangle(10, screen_height - 50, 100, 20)  
+rectangle(screen_width - 20, screen_height - 50, 100, 20)  
 a = ["Dog", "Cat", "Castle", "Voldemort", "Football", "Ice Cream", "Barack Obama", "Snowman"]
 print(random.choice(a))
