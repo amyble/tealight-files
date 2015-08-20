@@ -1,11 +1,11 @@
 from tealight.art import (color, line, spot, circle, box, rectangle, image, text, background)
-
+from tealight.art import (screen_height, screen_width)
 
 def start():
   tools = ["line","bold","circle","bird","stars","italics","triangle","hearts","eraser"]
 
   text (300, 10, "Toolbar:")
-  rectangle(300,35,25,25)
+  rectangle(screen_width - 205,35,25,25)
   line(312, 40, 312, 52)
   rectangle(325,35,25,25)
   box (335, 37, 5, 20)
