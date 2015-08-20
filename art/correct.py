@@ -14,6 +14,15 @@ def finishButtons():
   rectangle((screen_width / 2) + 95, ((screen_height / 2) + 40), 150,30)
   text((screen_width / 2) + 125, ((screen_height / 2) + 45), "P3 Wrong")
   
+  p2cMinX = ((screen_width / 2) - 75)
+  p2cMaxX = ((screen_width / 2) + 75)
+  p2wMinY = screen_height / 2
+  p2wMaxY = ((screen_height / 2) + 30)
+  p3cMinX = ((screen_width / 2) + 95)
+  p3cMaxX = ((screen_width / 2) + 245) 
+  p3wMinY = ((screen_width / 2) + 40)
+  p3wMaxY = 
+  
 def stopButton():
     global stopMinX, stopMaxX, stopMinY, stopMaxY  
     color("red")
@@ -24,5 +33,3 @@ def stopButton():
     stopMinY = screen_height - 40
     stopMaxY = screen_height - 10
     
-stopButton()
-finishButtons()
