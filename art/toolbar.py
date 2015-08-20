@@ -16,6 +16,6 @@ text(465, 55, "/")
 rectangle(480,50,30,30)
 text(490, 55, "T")
 rectangle(510,50,30,30)
-
+text(525, 55, "H")
 rectangle(540,50,30,30)
-
+text(555, 55, "X")
