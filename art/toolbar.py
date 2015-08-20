@@ -14,7 +14,7 @@ def start():
   rectangle(screen_width - 225,35,25,25)
   text(screen_width - 219, 38, "B")
   rectangle(screen_width - 200,35,25,25)
-  text(screen_width - 197, 38, "*")
+  text(screen_width - 193, 38, "*")
   rectangle(screen_width - 175,35,25,25)
   text(436, 38, "/")
   rectangle(screen_width - 150,35,25,25)
