@@ -20,7 +20,7 @@ def start():
   rectangle(450,50,25,25)
   text(457, 55, "T")
   rectangle(475,50,25,25) 
-  text(520, 55, "H")
+  text(480, 55, "H")
   rectangle(500,50,25,25) 
   text(550, 55, "X")
 start()
