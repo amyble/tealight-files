@@ -3,7 +3,7 @@ from tealight.art import (color, line, spot, circle, box, rectangle, image, text
 rectangle(300,50,30,30)
 line(315, 76, 315, 52)
 rectangle(330,50,30,30)
-box (345, 50, 5, 25)
+box (345, 66, 5, 25)
 rectangle(360,50,30,30)
 spot (345, 66, 5)
 rectangle(390,50,30,30)
