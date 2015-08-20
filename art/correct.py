@@ -4,7 +4,7 @@ from tealight.art import (screen_width, screen_height)
 def finishButtons():
   color("green")
   rectangle((screen_width / 2) - 75, screen_height / 2, 150,30)
-  text((screen_width / 2) - 32.5, ((screen_height / 2) + 5), "P1 Correct")
+  text((screen_width / 2) - 35, ((screen_height / 2) + 5), "P1 Correct")
 
   color("red")
   rectangle((screen_width / 2) + 95, screen_height / 2, 150,30)
