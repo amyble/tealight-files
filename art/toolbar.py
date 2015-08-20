@@ -8,4 +8,5 @@ rectangle(420,50,30,30)
 rectangle(450,50,30,30)
 rectangle(480,50,30,30)
 rectangle(510,50,30,30)
+rectangle(540,50,30,30)
 
