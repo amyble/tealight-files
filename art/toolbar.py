@@ -16,7 +16,7 @@ def start():
   rectangle(400,50,25,25)
   text(410, 55, "*")
   rectangle(425,50,25,25)
-  text(465, 55, "/")
+  text(436, 55, "/")
   rectangle(450,50,25,25)
   text(490, 55, "T")
   rectangle(475,50,25,25) 
