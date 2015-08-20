@@ -1,6 +1,6 @@
 from tealight.art import (color, line, spot, circle, box, rectangle, image, text, background)
 
-text (350, 30, "Toolbar:")
+text (315, 25, "Toolbar:")
 rectangle(300,50,30,30)
 line(315, 76, 315, 52)
 rectangle(330,50,30,30)
