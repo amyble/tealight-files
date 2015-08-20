@@ -8,7 +8,7 @@ def finishButtons():
 
   color("red")
   rectangle((screen_width / 2) + 95, screen_height / 2, 150,30)
-  text((screen_width / 2) + 132.5, ((screen_height / 2) + 5), "P1 Wrong")
+  text((screen_width / 2) + 140, ((screen_height / 2) + 5), "P1 Wrong")
   
 def stopButton():
     global stopMinX, stopMaxX, stopMinY, stopMaxY  
