@@ -10,7 +10,7 @@ def start():
   rectangle(325,50,25,25)
   box (335, 52, 5, 20)
   rectangle(350,50,25,25)
-  spot (370, 62, 8)
+  spot (365, 62, 8)
   rectangle(375,50,25,25)
   text(400, 55, "B")
   rectangle(400,50,25,25)
