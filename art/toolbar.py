@@ -12,7 +12,7 @@ circle(405,65,10)
 rectangle(420,50,30,30)
 text(430, 55, "*")
 rectangle(450,50,30,30)
-
+text(465, 50, "/")
 rectangle(480,50,30,30)
 rectangle(510,50,30,30)
 rectangle(540,50,30,30)
