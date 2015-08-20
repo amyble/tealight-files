@@ -6,7 +6,7 @@ rectangle(10, screen_height - 50, 130, 35)
 text(15, screen_height - 45, "Play")
 
 rectangle(150, screen_height - 50, 130, 35)
-text(15, screen_height - 45, "Play")
+text(15, screen_height - 45, "(random.choice(a))")
 
 a = ["Dog", "Cat", "Castle", "Voldemort", "Barack Obama", "Snowman", "Aeroplane", "Apple"]
 font("34px Verdana")
