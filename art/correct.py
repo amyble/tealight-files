@@ -4,11 +4,11 @@ from tealight.art import (screen_width, screen_height)
 def finishButtons():
   color("green")
   rectangle((screen_width / 2) - 75, screen_height / 2, 150,30)
-  text((screen_width / 2) - 32.5, ((screen_height / 2) + 5), "Correct")
+  text((screen_width / 2) - 32.5, ((screen_height / 2) + 5), "P1 Correct")
 
   color("red")
   rectangle((screen_width / 2) + 95, screen_height / 2, 150,30)
-  text((screen_width / 2) + 132.5, ((screen_height / 2) + 5), "Wrong")
+  text((screen_width / 2) + 132.5, ((screen_height / 2) + 5), "P1 Wrong")
   
 def stopButton():
     global stopMinX, stopMaxX, stopMinY, stopMaxY  
@@ -21,3 +21,4 @@ def stopButton():
     stopMaxY = screen_height - 10
     
 stopButton()
+finishButtons()
