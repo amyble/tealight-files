@@ -12,7 +12,7 @@ def finishButtons():
   rectangle((screen_width / 2) + 95, screen_height / 2, 150,30)
   text((screen_width / 2) + 125, ((screen_height / 2) + 5), "P2 Wrong")
   rectangle((screen_width / 2) + 95, ((screen_height / 2) + 40), 150,30)
-  text((screen_width / 2) + 125, ((screen_height / 2) + 45), "P3 Correct")
+  text((screen_width / 2) + 125, ((screen_height / 2) + 45), "P3 Wrong")
   
 def stopButton():
     global stopMinX, stopMaxX, stopMinY, stopMaxY  
