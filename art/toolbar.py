@@ -6,7 +6,7 @@ def start():
 
   text (screen_width - 300, 10, "Toolbar:")
   rectangle(screen_width - 300,35,25,25)
-  line(screen_width - 284, 40, screen_width - 284, 52)
+  line(screen_width - 286, 40, screen_width - 286, 52)
   rectangle(screen_width - 275,35,25,25)
   box (335, 37, 5, 20)
   rectangle(screen_width - 250,35,25,25)
