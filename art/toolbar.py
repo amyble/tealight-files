@@ -20,7 +20,7 @@ def start():
   rectangle(screen_width - 150,35,25,25)
   text(screen_width - 145, 38, "T")
   rectangle(screen_width - 125,35,25,25) 
-  text(screen_width - 115, 38, "H")
+  text(screen_width - 120, 38, "H")
   rectangle(screen_width - 100,35,25,25) 
   text(505, 38, "X")
 start()
