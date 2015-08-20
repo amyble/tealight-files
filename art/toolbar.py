@@ -4,7 +4,7 @@ def start():
 
   text (300, 25, "Toolbar:")
   rectangle(300,50,25,25)
-  line(315, 76, 315, 52)
+  line(315, 74, 315, 52)
   rectangle(330,50,25,25)
   box (345, 52, 5, 25)
   rectangle(360,50,25,25)
