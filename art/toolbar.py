@@ -5,7 +5,7 @@ def start():
   tools = ["line","bold","circle","bird","stars","italics","triangle","hearts","eraser"]
 
   text (300, 10, "Toolbar:")
-  rectangle(screen_width - 250,35,25,25)
+  rectangle(screen_width - 275,35,25,25)
   line(312, 40, 312, 52)
   rectangle(325,35,25,25)
   box (335, 37, 5, 20)
