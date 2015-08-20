@@ -1,4 +1,5 @@
 from tealight.art import (color, line, spot, circle, box, rectangle, image, text, background)
+tools = ["line","bold","circle","bird","stars","italics","triangle","hearts","eraser"]
 
 text (300, 25, "Toolbar:")
 rectangle(300,50,30,30)
