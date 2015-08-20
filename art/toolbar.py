@@ -12,7 +12,7 @@ def start():
   rectangle(screen_width - 250,35,25,25)
   spot (screen_width - 238, 47, 8)
   rectangle(screen_width - 225,35,25,25)
-  text(screen_width - 217, 38, "B")
+  text(screen_width - 219, 38, "B")
   rectangle(screen_width - 200,35,25,25)
   text(410, 38, "*")
   rectangle(screen_width - 175,35,25,25)
