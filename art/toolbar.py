@@ -7,9 +7,9 @@ box (345, 52, 5, 25)
 rectangle(360,50,30,30)
 spot (375, 66, 10)
 rectangle(390,50,30,30)
-text(400, 55, "*")
+circle(
 rectangle(420,50,30,30)
-
+text(435, 55, "*")
 rectangle(450,50,30,30)
 rectangle(480,50,30,30)
 rectangle(510,50,30,30)
