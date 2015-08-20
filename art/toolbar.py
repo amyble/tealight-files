@@ -1,7 +1,7 @@
 from tealight.art import (color, line, spot, circle, box, rectangle, image, text, background)
 from tealight.art import (screen_height, screen_width)
 
-def start():
+def drawToolbar():
   tools = ["line","bold","circle","bird","stars","italics","triangle","hearts","eraser"]
 
   text (screen_width - 300, 10, "Toolbar:")
@@ -23,4 +23,3 @@ def start():
   text(screen_width - 120, 38, "H")
   rectangle(screen_width - 100,35,25,25) 
   text(screen_width - 95, 38, "X")
-start()
