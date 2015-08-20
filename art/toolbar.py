@@ -4,7 +4,7 @@ from tealight.art import (color, line, spot, circle, box, rectangle, image, text
 def start():
   tools = ["line","bold","circle","bird","stars","italics","triangle","hearts","eraser"]
 
-  text (300, 25, "Toolbar:")
+  text (300, 10, "Toolbar:")
   rectangle(300,50,25,25)
   line(312, 70, 312, 52)
   rectangle(325,50,25,25)
