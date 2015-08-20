@@ -8,7 +8,7 @@ def start():
   rectangle(screen_width - 300,35,25,25)
   line(screen_width - 286, 40, screen_width - 286, 52)
   rectangle(screen_width - 275,35,25,25)
-  box (screen_width - 280, 37, 5, 20)
+  box (screen_width - 284, 37, 5, 20)
   rectangle(screen_width - 250,35,25,25)
   spot (363, 47, 8)
   rectangle(screen_width - 225,35,25,25)
