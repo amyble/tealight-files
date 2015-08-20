@@ -9,6 +9,7 @@ spot (375, 66, 10)
 rectangle(390,50,30,30)
 text(400, 55, "*")
 rectangle(420,50,30,30)
+
 rectangle(450,50,30,30)
 rectangle(480,50,30,30)
 rectangle(510,50,30,30)
