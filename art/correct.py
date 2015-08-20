@@ -2,8 +2,8 @@ from tealight.art import (color, line, spot, rectangle, circle, box, image, text
 
 from tealight.art import (screen_width, screen_height)
 
-
+color("blue")
 rectangle((screen_width / 2) - 75, screen_height / 2, 150,30)
-rectangle((screen_width / 2) + 95, screen_height / 2, 150,30)
 text((screen_width / 2) - 32.5, ((screen_height / 2) + 5), "Correct")
+rectangle((screen_width / 2) + 95, screen_height / 2, 150,30)
 text((screen_width / 2) + 132.5, ((screen_height / 2) + 5), "Wrong")
