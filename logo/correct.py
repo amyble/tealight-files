@@ -2,4 +2,4 @@ from tealight.art import (color, line, spot, rectangle, circle, box, image, text
 
 from tealight.art import (screen_width, screen_height)
 
-rectangle(screen_width / 2, screen_height / 2,  ,30)
+rectangle(30,3400
