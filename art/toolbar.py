@@ -2,3 +2,11 @@ from tealight.art import (color, line, spot, circle, box, rectangle, image, text
 
 rectangle(300,50,30,30)
 rectangle(330,50,30,30)
+rectangle(300,50,30,30)
+rectangle(330,50,30,30)
+rectangle(300,50,30,30)
+rectangle(330,50,30,30)
+rectangle(300,50,30,30)
+rectangle(330,50,30,30)
+rectangle(300,50,30,30)
+rectangle(330,50,30,30)
