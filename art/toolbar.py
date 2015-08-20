@@ -4,7 +4,7 @@ from tealight.art import (screen_height, screen_width)
 def start():
   tools = ["line","bold","circle","bird","stars","italics","triangle","hearts","eraser"]
 
-  text (300, 10, "Toolbar:")
+  text (screen_width - 300, 10, "Toolbar:")
   rectangle(screen_width - 300,35,25,25)
   line(312, 40, 312, 52)
   rectangle(screen_width - 275,35,25,25)
