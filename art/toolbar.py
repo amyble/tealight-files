@@ -21,3 +21,4 @@ def start():
   text(520, 55, "H")
   rectangle(540,50,30,30) 
   text(550, 55, "X")
+start()
