@@ -6,7 +6,7 @@ def start():
 
   text (300, 10, "Toolbar:")
   rectangle(300,35,25,25)
-  line(312, 55, 312, 52)
+  line(312, 40, 312, 52)
   rectangle(325,35,25,25)
   box (335, 37, 5, 20)
   rectangle(350,35,25,25)
