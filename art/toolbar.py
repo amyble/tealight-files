@@ -8,7 +8,7 @@ def start():
   rectangle(300,50,25,25)
   line(312, 70, 312, 52)
   rectangle(325,50,25,25)
-  box (342, 52, 5, 20)
+  box (330, 52, 5, 20)
   rectangle(350,50,25,25)
   spot (373, 62, 8)
   rectangle(375,50,25,25)
