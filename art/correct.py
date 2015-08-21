@@ -25,7 +25,7 @@ def finishButtons():
   
   p2wMinX = ((screen_width / 2) + 95)
   p2wMaxX = ((screen_width / 2) + 245)
-  p2wMinY = screen_height / 2
+  p2wMinY = (screen_height / 2)
   p2wMaxY = ((screen_height / 2) + 30)
   
   p3cMinX = ((screen_width / 2) - 75)
