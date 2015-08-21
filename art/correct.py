@@ -3,7 +3,7 @@ global stopMinX, stopMaxX, stopMinY, stopMaxY
 
 from tealight.art import (screen_width, screen_height)
 def finishButtons():
-  global p2cMinX,p2cMaxX,p2cMinY,p2cMaxY
+  global p2cMinX,p2cMaxX,p2cMinY,p2cMaxY, p2wMinX, p2wMaxX, p2wMinY, p2wMaxY, p3cMinX, p3cMaxX, p3cMinY, p3cMaxY, p3wMinX, p3wMaxX, p3wMinY, p3wMaxY
   color("green")
   #P2 Correct
   rectangle((screen_width / 2) - 75, screen_height / 2, 150,30)
