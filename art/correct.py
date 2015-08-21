@@ -9,7 +9,7 @@ stopMaxX = 0
 
 def stopButton():
   global stopMinY,stopMaxY,stopMinX,stopMaxX
-  color("purple")
+  color("red")
   rectangle((screen_width - 180), screen_height - 40, 150,30)
   text(screen_width - 85, screen_height - 35, "STOP")
   stopMinX = (screen_width - 180)
