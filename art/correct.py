@@ -1,9 +1,6 @@
 from tealight.art import (color, line, spot, rectangle, circle, box, image, text, background)
 
-stopMinY = 0
-stopMaxY = 0
-stopMinX = 0
-stopMaxX = 0 
+global stopMinY,stopMaxY, stopMinX, stopMaxX
 
 from tealight.art import (screen_width, screen_height)
 
