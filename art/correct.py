@@ -40,7 +40,7 @@ def finishButtons():
   p3wMinY = ((screen_width / 2) + 40)
   p3wMaxY = ((screen_width / 2) + 70)
   
-  
+finishButtons()  
   
  
 def stopButton():
