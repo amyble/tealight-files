@@ -52,5 +52,3 @@ def stopButton():
     stopMaxX = screen_width - 30
     stopMinY = screen_height - 40
     stopMaxY = screen_height - 10
-
-stopButton()  
