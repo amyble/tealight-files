@@ -21,10 +21,6 @@ def stopButton():
 stopButton()
 
 
-
-
-
-
 def finishButtons():
   global p2cMinX,p2cMaxX,p2cMinY,p2cMaxY, p2wMinX, p2wMaxX, p2wMinY, p2wMaxY, p3cMinX, p3cMaxX, p3cMinY, p3cMaxY, p3wMinX, p3wMaxX, p3wMinY, p3wMaxY
   color("green")
