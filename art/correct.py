@@ -17,3 +17,5 @@ def stopButton():
   stopMinY = screen_height - 40
   stopMaxY = screen_height - 10
   print stopMinX
+ 
+stopButton()
