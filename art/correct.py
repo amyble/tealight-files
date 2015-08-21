@@ -14,6 +14,7 @@ def finishButtons():
   #P2 Wrong
   rectangle((screen_width / 2) + 95, screen_height / 2, 150,30)
   text((screen_width / 2) + 125, ((screen_height / 2) + 5), "P2 Wrong")
+  #P3 Wrong
   rectangle((screen_width / 2) + 95, ((screen_height / 2) + 40), 150,30)
   text((screen_width / 2) + 125, ((screen_height / 2) + 45), "P3 Wrong")
   
@@ -21,12 +22,15 @@ def finishButtons():
   p2cMaxX = ((screen_width / 2) + 75)
   p2cMinY = (screen_height / 2)
   p2cMaxY = (screen_height / 2) + 30
-    
+  
+  p2wMinX = ((screen_width / 2) + 95
+  p2wMaxX = ((screen_width / 2) + 245
   p2wMinY = screen_height / 2
   p2wMaxY = ((screen_height / 2) + 30)
+  
   p3cMinX = ((screen_width / 2) + 95)
   p3cMaxX = ((screen_width / 2) + 245) 
-  p3wMinY = ((screen_width / 2) + 40)
+  p3cMinY = ((screen_width / 2) + 40)
   
   
 def stopButton():
@@ -38,5 +42,4 @@ def stopButton():
     stopMaxX = screen_width - 30
     stopMinY = screen_height - 40
     stopMaxY = screen_height - 10
-    
-finishButtons()
+   
