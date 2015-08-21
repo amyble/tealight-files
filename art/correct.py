@@ -40,7 +40,7 @@ def finishButtons():
   
   
   
-  
+finishButtons()  
   
 def stopButton():
     global stopMinX, stopMaxX, stopMinY, stopMaxY  
