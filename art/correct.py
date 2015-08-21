@@ -1,5 +1,6 @@
 from tealight.art import (color, line, spot, rectangle, circle, box, image, text, background)
-global stopMinX, stopMaxX, stopMinY, stopMaxY
+global stopMaxX, stopMinY, stopMaxY
+stopMinX = 0
 from tealight.art import (screen_width, screen_height)
 
 def stopButton():
