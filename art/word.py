@@ -1,4 +1,6 @@
 import random
+import 
 
+def
 a = ["Dog", "Cat", "Castle", "Voldemort", "Barack Obama", "Snowman", "Aeroplane", "Apple", "Bible", "Chocolates", "Electricity"]
-print(random.choice(a))
+text(random.choice(a))
